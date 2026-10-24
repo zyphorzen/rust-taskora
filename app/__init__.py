@@ -1,1 +1,0 @@
-"""Taskora application package."""
